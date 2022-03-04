@@ -14,6 +14,11 @@ https://nemutas.github.io/r3f-phantasmagoric-plane/
 - [MatCaps](https://github.com/nidorx/matcaps)
 - gsap
 
+# Source Code
+
+Source code is not available.<br>
+If there are many requests for it, I will consider distributing it through Patreon.
+
 # License
 
 This source code is not MIT License.
