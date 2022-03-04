@@ -20,5 +20,5 @@ This source code is not MIT License.
 
 ❌ Commercial use is prohibited.<br>
 ❌ Redistribution is prohibited.<br>
-❌ Diversion is prohibited.<br>
+❌ Diversion / Forking is prohibited.<br>
 ✅ You can look at the application and reproduce the representation.
